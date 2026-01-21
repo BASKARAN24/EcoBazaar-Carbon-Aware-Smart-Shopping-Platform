@@ -1,0 +1,2 @@
+# EcoBazaar-Carbon-Aware-Smart-Shopping-Platform
+EcoBazaar is a full-stack carbon-aware e-commerce platform that helps users make environmentally responsible shopping decisions by displaying product carbon footprints, eco-friendly alternatives, and total CO₂ impact during checkout.  Built with Spring Boot, React, and MySQL, EcoBazaar demonstrates real-world sustainability-driven software design.
