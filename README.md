@@ -125,3 +125,24 @@ Adds items to cart
 Cart shows total CO₂ impact
 System suggests greener alternatives
 User checks out → order stored
+
+<img width="1920" height="1080" alt="Screenshot (318)" src="https://github.com/user-attachments/assets/01648ea2-b633-47c4-8b1a-23b4a09eb168" />
+<img width="1920" height="1080" alt="Screenshot (319)" src="https://github.com/user-attachments/assets/1df68997-8282-4174-8627-73b4c66519dd" />
+<img width="1920" height="1080" alt="Screenshot (320)" src="https://github.com/user-attachments/assets/7c336a04-3e82-4b4e-a6f7-10d9fbe91821" />
+<img width="1920" height="1080" alt="Screenshot (321)" src="https://github.com/user-attachments/assets/acfa8c0f-b4e3-4cc3-8ffe-773c51f73d57" />
+<img width="1920" height="1080" alt="Screenshot (322)" src="https://github.com/user-attachments/assets/10ac9eae-3d2e-4db0-b987-5d56f1a0438a" />
+<img width="1920" height="1080" alt="Screenshot (323)" src="https://github.com/user-attachments/assets/cd05aae4-a0b2-48e8-9a9b-a4afefbf2e71" />
+<img width="1920" height="1080" alt="Screenshot (324)" src="https://github.com/user-attachments/assets/a16204ce-725b-4faa-b00d-9407f19ba42f" />
+<img width="1920" height="1080" alt="Screenshot (325)" src="https://github.com/user-attachments/assets/19cad10d-a734-469f-b0fb-315ce5d119fd" />
+<img width="1920" height="1080" alt="Screenshot (326)" src="https://github.com/user-attachments/assets/8b8725bc-1fa5-44c5-9e7c-53351f00d900" />
+<img width="1920" height="1080" alt="Screenshot (327)" src="https://github.com/user-attachments/assets/1196bd39-9bcd-4e26-97fc-6a2add5536f9" />
+<img width="1920" height="1080" alt="Screenshot (328)" src="https://github.com/user-attachments/assets/3823fcac-b918-45c2-b284-36e8c4fa35a0" />
+
+
+
+
+
+
+
+
+
